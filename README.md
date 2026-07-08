@@ -36,15 +36,19 @@ This repository translates raw consumer survey data into a business intelligence
 Below is a preview of the strategic business proposal developed from this audience data analysis:
 
 ### Slide 1: Executive Title
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bc219677-d0de-467f-8213-64710e0b07e4" />
 
 
 ### Slide 2: Core Consumer Friction Points
-![Slide 2](Slide2.png)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/da87a125-7335-46f1-b8c2-81a32dc01e6e" />
+
 
 ### Slide 4: Strategic Recommendations
-![Slide 4](Slide4.png)
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/52b36421-3e9b-4b18-a09f-4d802822265e" />
+
 
 ### Slide 5: Target Demographic Alignment
-![Slide 5](Slide5.png)
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/58eb5018-4f6c-4d4c-bcc5-05b2369c228a" />
+
 
 *👉 **[Click Here to Download the Full Presentation Deck(PDF)(https://canva.link/aqpp4xq5hqlgwr5)** to view all high-resolution slides and complete insights.*
